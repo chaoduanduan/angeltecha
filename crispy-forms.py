@@ -1,3 +1,7 @@
+http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp
+http://getbootstrap.com/css/#grid
+https://godjango.com/29-crispy-forms/
+http://django-crispy-forms.readthedocs.org/en/latest/index.html
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
 
 INSTALLED_APPS = (
